@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1399c92a8bc5f324190e9f3d2754362d, type: 3}
+  m_Name: TutoEnemyStat
+  m_EditorClassIdentifier: 
+  MaxHP: 12
+  CurrentHP: 12
+  MaxMP: 10
+  CurrentMP: 10
+  MoveSpeed: 2
+  AtkBase: 3
+  AtkMult: 1
+  DefBase: 0
+  DefMult: 1
+  SpBase: 1
+  SpMult: 1

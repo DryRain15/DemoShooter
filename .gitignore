@@ -58,3 +58,13 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+DemoShooter/.idea
+DemoShooter/Library/Artifacts
+DemoShooter/Library/StateCache
+DemoShooter/Library/ShaderCache
+DemoShooter/obj
+DemoShooter/Library/PackageCache
+DemoShooter/Library
+DemoShooter/Logs
+DemoShooter/Temp
